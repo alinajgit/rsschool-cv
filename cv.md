@@ -1,4 +1,4 @@
-### **Alina Iamaleeva**\
+### **Alina Iamaleeva**
 **Front end developer**
 
 ### **My links:** ###
