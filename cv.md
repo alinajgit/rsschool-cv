@@ -1,5 +1,5 @@
-### **Alina Iamaleeva**
-### **Front end developer**
+### **Alina Iamaleeva**\
+**Front end developer**
 
 ### **My links:** ###
 [GitHub profile](https://github.com/alinajgit)\
