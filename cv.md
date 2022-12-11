@@ -1,15 +1,15 @@
 ### **Alina Iamaleeva**
-#### Front end developer
+### **Front end developer**
 
-##### **My links:** #####
+### **My links:** ###
 [GitHub profile](https://github.com/alinajgit)\
 [Telegram](https://t.me/douevenknowme)
 
-##### **Stack:** #####
+### **Stack:** ###
 JavaScript\
 Python\
 SQL
 
-##### **Languages:** #####
-**English** - fluent (C1)
+### **Languages:** ###
+**English** - fluent (C1)\
 **German** - intermediate (B1)
